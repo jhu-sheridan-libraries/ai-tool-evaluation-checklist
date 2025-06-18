@@ -1,4 +1,5 @@
 # AI Tool Evaluation Checklist
+This project provides a comprehensive framework for evaluating AI tools for use within a library context. It includes detailed instructions and a checklist covering key areas such as usability, accuracy, accessibility, privacy, ethical considerations, environmental impact, integration, and customization. The goal is to facilitate an objective and thorough assessment of AI tools, ensuring their suitability and alignment with library needs and values. There are two accompanying checklist aids (Microsoft Word and PDF) in this repository and below are the instructions and guidance on using the checklists.
 
 # Instructions for Evaluating an AI Tool
 These instructions guide you through the process of evaluating an AI tool using the provided checklist. The goal is to provide a comprehensive and objective assessment of the tool's suitability for use within the library context. This evaluation considers various aspects, including usability, accuracy, accessibility, ethical considerations, and environmental impact.
